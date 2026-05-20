@@ -37,7 +37,7 @@
 
 ---
 
-**Made with ❤️ and pure chaos by [@GamingHackintosh](https://github.com/GamingHackintosh)**
+**Made with ❤️ and pure chaos by [@GamingHackintosh](https://github.com/gaminghackintosh)**
 
 <pre>
                                      , 
